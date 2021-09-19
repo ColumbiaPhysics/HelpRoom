@@ -20,8 +20,8 @@ function init() {
 			ta.innerText = "Current TA: " + slot.innerText
 			let link = document.createElement("a")
 			link.appendChild(document.createTextNode(" " + 
-				"https://columbiauniversity.zoom.us/j/9393880348"))
-			link.href = "https://columbiauniversity.zoom.us/j/9393880348"
+				"https://columbiauniversity.zoom.us/j/6029584593?pwd=TSt5dG96cmZRM3ExRVJBSFg3OFVOUT09"))
+			link.href = "https://columbiauniversity.zoom.us/j/6029584593?pwd=TSt5dG96cmZRM3ExRVJBSFg3OFVOUT09"
 			zoom.appendChild(link)
 		}
 	} else {
